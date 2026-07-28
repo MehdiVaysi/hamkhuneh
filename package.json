@@ -1,0 +1,11 @@
+{
+  "name": "hamkhuneh",
+  "version": "1.0.0",
+  "description": "Hamkhuneh - Roommate Finder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mehdi Vaysi",
+  "license": "MIT"
+}
